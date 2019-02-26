@@ -1,1 +1,15 @@
 # testInformer
+steps to commit and push to git
+
+Steps1. Create folder in local machine on C drive
+Step2. Right click Git Bash Here
+Step3. Login to Git
+Step4. Create a new repositories in Git
+step5. Copy CLone
+Step6. go to git bash type command
+git clone and paste the clone URL
+Step7. Git status
+Then go to add the files and folder in that local folder
+Step8 Git bash command : Git add .
+Step9 Git commit -m "add comment"
+Step10 git push
