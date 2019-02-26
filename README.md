@@ -18,3 +18,4 @@ git log to check the log
 Step11 : Go to Git and check
 Step12 : To check the command 
 git difftool HEAD
+Step13 : to UNDO your code needs git Bash Code : git checkout -- File name
