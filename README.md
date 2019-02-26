@@ -15,4 +15,4 @@ Step9 Git commit -m "add comment"
 Step10 git push
 Step 11 : Git bash command 
 git log to check the log 
-Step11 : 
+Step11 : Go to Git and check
