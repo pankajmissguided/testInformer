@@ -93,7 +93,7 @@ public class TS04_LiveReporting extends TestBase {
 		}
 	}
 
-	@Test(priority = 3, enabled = false)
+	@Test(priority = 3, enabled = true)
 	public void verifyOverviewOfReport() throws InterruptedException {
 		try {
 			test.log(LogStatus.PASS, " TS04-04 Validating Overview of the reported cases");
