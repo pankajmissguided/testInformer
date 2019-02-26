@@ -16,4 +16,5 @@ Step10 git push
 Step 11 : Git bash command 
 git log to check the log 
 Step11 : Go to Git and check
-Step12 
+Step12 : To check the command 
+git difftool HEAD
