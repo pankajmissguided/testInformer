@@ -20,3 +20,5 @@ Step12 : To check the command
 git difftool HEAD
 Step13 : to UNDO your code needs git Bash Code : git checkout -- File name
 Step 14 This step added to use revert the change in git bash
+
+Step 15 I made changes to the new branch NEW1
