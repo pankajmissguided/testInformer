@@ -13,3 +13,6 @@ Then go to add the files and folder in that local folder
 Step8 Git bash command : Git add .
 Step9 Git commit -m "add comment"
 Step10 git push
+Step 11 : Git bash command 
+git log to check the log 
+Step11 : 
